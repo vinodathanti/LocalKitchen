@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalKitchen</string>
+    <string name="delivery_information">Delivered between monday through thursday from 8pm to 11:32 pm</string>
+    <string name="return_policy_text">All our foods are double checked before leaving out stores so by any case you found a broken food please contact out hotline immediately</string>
+</resources>
